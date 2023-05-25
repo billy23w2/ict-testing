@@ -1,0 +1,45 @@
+body {
+}
+h1{
+	text-align: center;
+	color: black;
+		font-size: 50px;
+}
+#fs{
+	font-size: 30px;
+	color: black;
+}
+
+table{
+font-family: century gothic,sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+body{
+	background: white;
+}
+td,th{
+	border: 1px solid darkgoldenrod;
+	text-align: left;
+	padding: 10px;
+}
+tr:nth-child(even){
+	background-color: darkkhaki;
+}
+h1{
+	text-align: center;
+	color: black;
+	font-size: 50px;
+}
+h3{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+}
+#black{
+	font-family: arial;
+	color: black;
+	font-size: 25px;
+	border-style: 2px solid grey;
+	text-align: left;
+}
